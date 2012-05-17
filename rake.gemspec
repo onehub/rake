@@ -1,7 +1,7 @@
 --- !ruby/object:Gem::Specification 
 name: rake
 version: !ruby/object:Gem::Version 
-  version: 0.8.4.99
+  version: 0.8.7
 platform: ruby
 authors: 
 - Jim Weirich
