@@ -5,6 +5,8 @@ version: !ruby/object:Gem::Version
 platform: ruby
 authors: 
 - Jim Weirich
+licenses:
+- MIT
 autorequire: 
 bindir: bin
 cert_chain: []
